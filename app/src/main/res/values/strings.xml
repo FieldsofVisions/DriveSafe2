@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drive Safe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="response_hint">Your Response</string>
+    <string name="title_activity_choice_list">ChoiceList</string>
+    <string name="title_activity_create_response">CreateResponse</string>
+    <string name="title_activity_messaging">Messaging</string>
+</resources>
